@@ -71,4 +71,4 @@ I code with:
   
   ---
 <!-- JacobLinCool -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/saravananofficial18?theme=wtf&ext=heatmap&font=Play)
+![LeetCode Stats](https://leetcard.jacoblin.cool/saravananofficial18)
