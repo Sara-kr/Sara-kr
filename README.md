@@ -70,4 +70,5 @@ I code with:
 
   
   ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/saravananofficial18?theme=dark&font=Baloo%20Paaji%202)
+<!-- JacobLinCool -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/saravananofficial18?theme=wtf&ext=heatmap&font=Play)
